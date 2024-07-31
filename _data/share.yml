@@ -1,0 +1,9 @@
+#  Sharing options at the bottom of the post.
+#  Icons from <https://fontawesome.com/>
+
+platforms:
+
+  - type: Facebook
+    icon: "fab fa-facebook-square"
+    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+
