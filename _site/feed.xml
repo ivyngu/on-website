@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Phan Công Thạnh</title>
   <subtitle>Bài viết của Phan Công Thạnh.</subtitle>
-  <updated>2024-07-26T20:57:39-06:00</updated>
+  <updated>2024-09-27T15:25:42-06:00</updated>
   <author>
     <name>Phan Công Thạnh</name>
     <uri>http://localhost:4000/</uri>
@@ -20,25 +20,23 @@
 
   
   <entry>
-    <title>Canda</title>
-    <link href="http://localhost:4000/posts/canada/" rel="alternate" type="text/html" title="Canda" />
-    <published>2024-07-26T07:10:10-06:00</published>
+    <title>Vài Nét Về Vùng Đất Bắc Bán Cầu, Nước Canada (Gia Nã Đại)</title>
+    <link href="http://localhost:4000/posts/Canada/" rel="alternate" type="text/html" title="Vài Nét Về Vùng Đất Bắc Bán Cầu, Nước Canada (Gia Nã Đại)" />
+    <published>2024-08-18T07:10:10-06:00</published>
   
-    <updated>2024-07-26T07:10:10-06:00</updated>
+    <updated>2024-08-18T07:10:10-06:00</updated>
   
-    <id>http://localhost:4000/posts/canada/</id>
-    <content src="http://localhost:4000/posts/canada/" />
+    <id>http://localhost:4000/posts/Canada/</id>
+    <content src="http://localhost:4000/posts/Canada/" />
     <author>
       <name>Phan Công Thạnh</name>
     </author>
 
   
     
-    <category term="TRAVEL" />
-    
   
 
-  <summary>Hello.</summary>
+  <summary>Năm nay 2024, nhân dịp kỳ nghỉ lễ mừng độc lập của Hiệp Chủng Quốc Hoa Kỳ, thường được gọi với cái tên thật gọn là July 4,ba cô con gái nhà tôi, cũng thường được mệnh danh là ba con trăng của nhà họ PHAN (Phan công Thạnh) Đông, Thu và Như Nguyệt. Chị em bọn họ rủ nhau tổ chức một cuộc du ngoạn chung sang đất nước láng giềng CANADA, mục đích là đưa tất cả con cái của bọn họ cùng đi chơi chung vớ...</summary>
 
   </entry>
 

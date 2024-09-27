@@ -55,10 +55,10 @@ social:
 theme_mode: # [light | dark]
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/lib/icon.jpg"
+avatar: "/assets/lib/icon.png"
 
 # boolean type, the global switch for TOC in posts.
-toc: true
+toc: false
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
